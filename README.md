@@ -27,3 +27,39 @@ Spring 最佳实践练习
 
 
 # 练习6 日期格式解析
+
+
+# 练习7 跨域访问
+
+> 参考资料:
+
+> https://spring.io/blog/2015/06/08/cors-support-in-spring-framework
+
+> https://www.baeldung.com/spring-cors
+
+# 练习8 使用 swagger 发布文档
+
+> 参考资料
+
+> https://www.baeldung.com/spring-rest-openapi-documentation
+
+> https://medium.com/@hala3k/setting-up-swagger-3-with-spring-boot-2-a7c1c3151545
+
+
+# 练习9 定时任务
+
+> 参考资料：
+
+> https://spring.io/guides/gs/scheduling-tasks/
+
+> https://www.baeldung.com/spring-scheduled-tasks
+
+> https://www.baeldung.com/spring-task-scheduler
+
+# 练习10 Spring 启动后运行
+
+
+# 练习11 Spring 组件初始化
+
+
+# 练习12 Spring JPA 多主键
