@@ -21,6 +21,10 @@
 	<modules>
 		<module>exercise-1-0</module>
 		<module>exercise-1-1</module>
+		<module>exercise-2</module>
+		<module>exercise-3</module>
+		<module>exercise-4</module>
+		<module>exercise-5</module>
 	</modules>
 	<dependencyManagement>
 		<dependencies>
